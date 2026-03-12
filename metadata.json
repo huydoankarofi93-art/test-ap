@@ -1,0 +1,7 @@
+{
+  "name": "12.3",
+  "description": "Khám phá tâm lý, vận mệnh và liệu pháp chữa lành qua lăng kính Tử Vi, Kinh Dịch và Nhân Tướng Học.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
